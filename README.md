@@ -1,4 +1,4 @@
-![Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/943f576df3424fa98580c2ad18946719~tplv-goo7wpa0wc-image.image)
+![2.png](http://kmdev.53ai.com/api/preview/f224c9d52485655e5d30f485919cae79.png)
 
 <div align="center">
 <p>
@@ -28,7 +28,7 @@
 
 **Coze Studio Plus 是专为中大型企业设计的一站式 AI 开发平台**，在开源 Coze Studio 基础上围绕**团队协作**、**安全合规**和**集成扩展**三大模块进行功能增强，同时实现与 企业微信、钉钉、飞书、Slack、Microsoft Teams等主流企业协作工具的深度集成。Coze Studio Plus将成为企业 AI 应用开发的核心引擎，提供从开发到部署的完整工具链，降低 AI 应用开发门槛，同时满足企业级安全、合规和可扩展性需求。
 
-![.png](http://kmdev.53ai.com/api/preview/66f6d6394e55c35dc7daa3b750779242.png)
+![1.png](http://kmdev.53ai.com/api/preview/434c718e6e22457fafdc0c41118d29b0.png)
 
 ![.png](http://kmdev.53ai.com/api/preview/b73a01d7ae7ee9383bffec250e019069.png)
 
