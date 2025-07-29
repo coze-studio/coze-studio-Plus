@@ -30,9 +30,9 @@
 
 ![1.png](http://kmdev.53ai.com/api/preview/434c718e6e22457fafdc0c41118d29b0.png)
 
-![.png](http://kmdev.53ai.com/api/preview/b73a01d7ae7ee9383bffec250e019069.png)
+![1.png](http://kmdev.53ai.com/api/preview/9cf5114fcfe14a88b9746cedd4f9a4c0.png)
 
-![.png](http://kmdev.53ai.com/api/preview/db1ef22c090d9087035f83ac236320f9.png)
+![1.png](http://kmdev.53ai.com/api/preview/453d2bc353d8b2e34643e8f72a80a5b8.png)
 
 ## 版本优势
 
@@ -81,7 +81,7 @@
 
 ## 致谢
 
-感谢字节扣子开源Coze Studio，同时感谢所有为 Coze Studio 项目做出贡献的开发者和社区成员。
+感谢字节扣子开源[Coze Studio](https://github.com/coze-dev/coze-studio)，同时感谢所有为 Coze Studio 项目做出贡献的开发者和社区成员。
 
 特别感谢：
 
