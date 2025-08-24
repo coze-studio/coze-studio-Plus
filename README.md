@@ -72,7 +72,7 @@
 **微信群聊**
 使用微信扫描下方二维码加入：
 
-![981902173191949a093d04303f7bbf95.png](https://kmapitest.53ai.com/api/preview/d36c252ad4013270047e2c3875c6b1d1.png)
+![e2bb40500b0703c7ad0aa35ec70a9c7e_origin.png](http://kmdev.53ai.com/api/preview/d7a78270c386f7b5094b9d0d068f5fb8.png)
 
 ## 致谢
 
